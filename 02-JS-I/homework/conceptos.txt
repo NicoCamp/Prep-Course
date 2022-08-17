@@ -1,0 +1,16 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+cualquier agujero en tu comprensión.
+
+ 
+**Variables: "son espacios en menoria, donde podemos guardar una informacion que podamos necesitar mas adelante."
+ 
+**Strings: "vendrian a ser hilos de caracteres, por lo general son letras palabras o textos, pero pueden 
+incluir numeros, solo que estos pasan a ser interpretados como texto."
+
+**Funciones (argumentos, `return`): las Funciones son lineas de codigo creadas para realizar algo con los datos(argumentos)
+que se le pase al invocarlas.  **el return sirve para sacar algun valor o resultado de adentro de la Funcione** 
+
+*Declaraciones `if`: sirve para realizar algun tipo de accion a partir de que se cumpla una condicion establecida
+
+*Valores booleanos (`true`, `false`): son el verdadero y falso, se usan para todas las operaciones logicas.
