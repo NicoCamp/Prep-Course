@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+cualquier agujero en tu comprensión.
+
+* `for`: se usa para crear un bucle repetitivo, que ejecutara una accion hasta llegar a un valor deceado donde queremos terminar el bucle
+* `&&`: sirve para poner dos o mas condiciones que deven cumplirse antes de ejecutar alguna accion
+* `||`: sirve para que una accion se ejecute si se cumple una de varias condiciones
+* `!`: sirve para negar un valor, y una doble negacion "!!" sirve para encontrar el valor verdadero
