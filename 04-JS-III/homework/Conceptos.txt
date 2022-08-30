@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+*Arrays: Una Array es como una lista que puede incluir distintos tipo de datos, como numeros, strings, booleanos,
+funciones e incluso otras arrays, o tambien pueden ser listas vacias.
+    -Para declara una Array se deben usar corchetes y escribir dentro los datos deseados: **var Array[1, 2, "stirng"].
+    -A los datos que estan dentro de estas lista se puede acceder mediante el uso de indices: Array[0], Array[3].
+    -Pueden ser manipuladas, accedidas y recorridas mediante es uso de "Metodos" y "Propiedades".
