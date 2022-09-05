@@ -1,0 +1,12 @@
+ En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si
+ se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero
+ en tu comprensión.
+
+	* Objetos: se puede entender a un objeto como una lista, o arreglo avanzado en el cual se puede buscar o acceder a datos
+	dentro del mismo mediante los nombres de las propiedasdes.
+	* Propiedades: pueden ser vistos como los indices dentro de un array, pero son mas faciles de 
+	encontrar o consultar su contenido.
+	* Métodos: vendrian a ser los indices o espacios donde se va a almacenar datos del objeto.
+	* Bucle `for…in`: La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado
+	por cadenas (ignorando los codificados por Símbolos, incluidas las propiedades enumerables heredadas.
+	* Notación de puntos vs notación de corchetes: ...
