@@ -1,37 +1,63 @@
 body{
+    margin: 0px;
     background-image: url(./fondo2.jpg);
     background-size: cover;   
     background-position-x: center;
 }
 .Title{
-    margin-left: 600px;
+    background-color: rgba(184, 210, 249, 0.614);
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 200px;
+    font-size: xx-large;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-line: underline;
+    margin-left: 570px;
+   
+}
+.Title2{
+    background-color: rgba(184, 210, 249, 0.614);
+    padding-top: 5px;
+    padding-left: 155px;
+    padding-bottom: 5px;
+    font-size: xx-large;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-line: underline;
+    margin-left: 570px;
+    
 }
 .DivRight{
-    margin-left: 600px;
+    margin-left: 650px;
+    width: 730px;
+    font-size: x-large;
+    text-align: justify;
 }
 img{
-    width:400px; 
-    height:400px;
-    margin-left: 30px;
+    width:300px; 
+    height:300px;
+    margin-left: 80px;
     margin-top: 20px;
     border-radius: 360px;
     border-width: 10px;
-    border-color: chartreuse;
-    border-style: inset;
-    background-color: rgba(165, 42, 42, 0.545);
+    border-style: initial;
+    background-color: rgb(105, 174, 239);
     padding: 10px;
 
 }
 
-.DivLeft{
-    margin-top: -560px;
+.DivLeft{    
+    margin-top: -1450px;
     width: 510px;
-    background-color: rgba(169, 169, 169, 0.447);
-    
+    background-color: rgba(169, 169, 169, 0.447);    
     padding: 30px;
+    padding-bottom: 150px;
+    font-size: x-large;
+    text-align: justify;
+    
 }
 p{
     text-align: justify;
-    width: 500px;
+    width: 800px;
+    padding-bottom: 50px;
                 
 }
