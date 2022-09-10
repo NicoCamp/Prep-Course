@@ -1,0 +1,37 @@
+body{
+    background-image: url(./fondo\ curriculum.png);
+    background-size: cover;   
+    background-position-x: center;
+}
+.Title{
+    margin-left: 600px;
+}
+.DivRight{
+    margin-left: 600px;
+}
+img{
+    width:400px; 
+    height:400px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 360px;
+    border-width: 10px;
+    border-color: chartreuse;
+    border-style: inset;
+    background-color: rgba(165, 42, 42, 0.545);
+    padding: 10px;
+
+}
+
+.DivLeft{
+    margin-top: -560px;
+    width: 510px;
+    background-color: rgba(169, 169, 169, 0.447);
+    
+    padding: 30px;
+}
+p{
+    text-align: justify;
+    width: 500px;
+                
+}
